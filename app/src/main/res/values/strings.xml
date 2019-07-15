@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4.0 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="djako_akpe_emmanuel">Djako Akpe Emmanuel</string>
+    <string name="slack_username_djako_akpe_emmanuel">Slack Username: @Djako Akpe Emmanuel</string>
+    <string name="country_ghana">Country: Ghana</string>
+    <string name="email_akpemanou_gmail_com">Email: akpemanou@gmail.com</string>
+    <string name="phone_number_223_544_474_815">Phone Number: +223 544 474 815</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country">Country: Ghana</string>
+    <string name="emmanuel">emmanuel</string>
+</resources>
